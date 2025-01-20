@@ -75,7 +75,6 @@ body{
 
 .time-container span {
   display: inline-block;
-  width: 260px;
   text-align: center;
   font-size: 175px;
 }
@@ -194,7 +193,6 @@ button:active {
 
   .time-container span{
     font-size: 110px;
-    width: 155px;
   }
 }
 
@@ -213,7 +211,6 @@ button:active {
 
   .time-container span{
     font-size: 101px;
-    width: 148px;
   }
 
   .date-display {
@@ -255,7 +252,6 @@ button:active {
 
   .time-container span{
     font-size: 90px;
-    width: 120px;
   }
 }
 
@@ -266,7 +262,6 @@ button:active {
 
   .time-container span{
     font-size: 79px;
-    width: 105px;
   }
 
   #region , #time-zone {
@@ -285,7 +280,6 @@ button:active {
 
   .time-container span{
     font-size: 68px;
-    width: auto;
   }
 
   .region-box {
